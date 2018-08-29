@@ -1,0 +1,29 @@
+body {
+    font-family: "Open Sans" serif;
+}
+
+.result-container {
+    width: 70%;
+    height: 150px;
+    border: 1px solid green;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.result-part {
+    width: 90%;
+    border: 1px solid grey;
+    margin-left: 100px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    padding: 15px;
+    font-size: 15px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.input-box {
+    width: 600px;
+    height: 30px;
+}
